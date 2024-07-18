@@ -1,1 +1,4 @@
 password = '123456abc'
+key='12345678dfghjrty'
+print(password)
+print(key)
